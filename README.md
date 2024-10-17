@@ -1,5 +1,5 @@
 # RepositoriodeEvaluacion_BlancoOmar
-# Tu Nombre Completo
+# Mi Nombre Completo
 Omar Blanco Rodriguez
 
 ## Objetivo de la práctica
